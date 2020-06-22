@@ -25,13 +25,18 @@ I had my own requirements on ORM
 
 ### Conclusion
 
-Overall very good ORM. 
-To learn it please read docs:
-https://github.com/volatiletech/sqlboiler
-and watch these videos:
-https://www.youtube.com/watch?v=y5utRS9axfg
-https://www.youtube.com/watch?v=iiJuM9NR8No
-https://www.youtube.com/watch?v=-B-OPsYRZJA
+Overall great ORM with minor issues.
+It supports a model generation with constants for table and column names.  
+Has queryMods to add filters to queries. Also raw where or query could be passed.
+Has eager loading to load entities and all needed relations.
+
+
+To learn it please read docs:  
+https://github.com/volatiletech/sqlboiler  
+and watch these videos:  
+https://www.youtube.com/watch?v=y5utRS9axfg  
+https://www.youtube.com/watch?v=iiJuM9NR8No  
+https://www.youtube.com/watch?v=-B-OPsYRZJA  
 
 This repo provides a good DB to play with and explore more about SqlBoiler.
 
